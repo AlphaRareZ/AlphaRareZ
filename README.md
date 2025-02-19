@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning `.NET 9.0 For Backend Development`
 
-- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/AlphaRareZ?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Github Repositories](https://github.com/AlphaRareZ?tab=repositories)
 
 - 💬 Ask me about `Database Engineering, Software Engineering, Competitive Programming, Backend Development`
 
-- 📫 How to reach me [AlphaRareZ Gmail](mailto::Muhammedalaa.404@gmail.com)
+- 📫 How to reach me [AlphaRareZ](mailto::Muhammedalaa.404@gmail.com)
 
 - 📄 Know about my experiences `Proficient in C/C++, C#, Java, Python, Expert in writing SQL queries and also Learning Backend Development Using .NET`
 
